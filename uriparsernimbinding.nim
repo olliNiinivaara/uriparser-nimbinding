@@ -1,6 +1,6 @@
 # Public Domain
 
-import uriparserheaders
+import uriparsernimbinding/uriparserheaders
 export UriUriA
 
 const
