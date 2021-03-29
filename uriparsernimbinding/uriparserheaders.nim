@@ -1,35 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@olliNiinivaara
-olliNiinivaara /
-uriparsernimbinding
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-uriparsernimbinding/uriparserheaders.nim
-Olli commit
-Latest commit 8013aa3 on Nov 19, 2020
-History
-1 contributor
-2475 lines (2451 sloc) 169 KB
 # Generated @ 2020-11-18T10:39:31+02:00
 # Command line:
 #   /home/olli/.nimble/pkgs/nimterop-0.6.13/nimterop/toast -r -n ./uriparser/Uri.h -o=uriparser.nim
@@ -2505,18 +2474,3 @@ proc uriMakeOwnerMmW*(uri: ptr UriUriW; memory: ptr UriMemoryManager): cint {.
                                ##    @since 0.9.4
                                ## ```
 {.pop.}
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
