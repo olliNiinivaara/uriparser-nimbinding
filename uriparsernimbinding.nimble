@@ -3,3 +3,4 @@ author        = "Olli"
 description   = "Nim binding for uriparser"
 license       = "MIT"
 srcDir        = "."
+skipFiles = @["example.nim"]
